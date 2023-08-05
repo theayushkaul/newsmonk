@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@600&display=swap');
+.navbar-brand{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-large;
+  font-weight: bold;
+}
+.bitter{
+  font-family: 'Bitter', serif;
+}
+body{
+  background-color: rgb(226, 234, 237);
+}
+.pet{
+  color: red;
+}
